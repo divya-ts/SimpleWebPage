@@ -5,7 +5,7 @@
 	display:block;
 	width: 100%;
 	height: 200px;
-	background-color: #66BB6A;
+	background-color: black;
 	margin-top: 25px;
 	position: relative;
 }
@@ -17,4 +17,5 @@
 	margin: 20px auto;
 	position: relative;
 	overflow: hidden;
+	border-radius: 20%;
 }
