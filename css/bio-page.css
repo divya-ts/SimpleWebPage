@@ -3,7 +3,8 @@
 }
 .content-block {
 	display:block;
-	width: 100%;
+	width: 80%;
+	margin-left: 10%;
 	height: 200px;
 	background-color: #66BB6A;
 	margin-top: 25px;
@@ -11,8 +12,9 @@
 }
 
 .img-holder {
-	width: 150px;
-	height: 150px;
+	width: 75px;
+	height: 75px;
+	border-radius: 50%;
 	background-color: blue;
 	margin: 20px auto;
 	position: relative;
